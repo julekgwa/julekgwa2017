@@ -1,0 +1,16 @@
+PODS:
+  - julekgwa2017 (0.1.0)
+
+DEPENDENCIES:
+  - julekgwa2017 (from `../`)
+
+EXTERNAL SOURCES:
+  julekgwa2017:
+    :path: ../
+
+SPEC CHECKSUMS:
+  julekgwa2017: d33b07062bf90c180fd9e5a321570b32a4f4d488
+
+PODFILE CHECKSUM: 7336f9fdbaf36e9e80b0e8424aaea65f05bffa8e
+
+COCOAPODS: 1.4.0.beta.1

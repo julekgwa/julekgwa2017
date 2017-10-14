@@ -1,0 +1,6 @@
+framework module Pods_julekgwa2017_Tests {
+  umbrella header "Pods-julekgwa2017_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

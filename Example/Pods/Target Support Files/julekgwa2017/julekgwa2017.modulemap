@@ -1,0 +1,6 @@
+framework module julekgwa2017 {
+  umbrella header "julekgwa2017-umbrella.h"
+
+  export *
+  module * { export * }
+}
